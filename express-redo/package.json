@@ -1,0 +1,20 @@
+{
+	"name": "express-redo",
+	"version": "1.0.0",
+	"description": "- For now we start the server from scratch - We wil use a boilerplate (a generator)   - You did not have to start React from scratch",
+	"main": "index.js",
+	"scripts": {
+		"dev": "nodemon app.js",
+		"start": "node app.js"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"express": "^4.18.2",
+		"morgan": "^1.10.0"
+	},
+	"devDependencies": {
+		"nodemon": "^3.0.1"
+	}
+}
